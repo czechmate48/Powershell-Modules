@@ -3,7 +3,7 @@
 # USE: Store user credentials in a text file. 
 #-------------------------------#
 
-function Write-CredentialsToFile {
+function Write-CredentialsFile {
 
     [CmdletBinding()]
     param (
